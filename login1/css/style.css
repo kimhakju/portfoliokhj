@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+html{
+  line-height:normal;
+}
+body{
+  font-family: 'Noto Sans KR', sans-serif;
+  background-image: url('../img/logo_black.png');
+  background-repeat: no-repeat;
+}
+
+/*전체 레이아웃*/
+#wrap{
+  margin:0 auto;
+  max-width:980px;
+  min-width:768px;
+  margin-top: 200px;
+}
+
+#wrap .title{
+  position: relative;
+  padding: 10px 0 0;
+  border-bottom: 1px solid #333;
+  overflow: hidden;
+}
+
+#wrap .title h1{
+  display: inline-block;
+  font-size: 25px;
+  line-height:1;
+  color: #333;
+}
+
+#wrap .title .prec{
+  float:right;
+  color:#666;
+}
+
+#wrap .title .prec em{
+  font-size: 8px;
+  color:#f85858;
+  margin-right: 5px;
+}
