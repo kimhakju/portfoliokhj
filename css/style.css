@@ -152,7 +152,7 @@ h1,h2,h3,h4,h5,h6{line-height: 1;}
 
 #mainbanner .maintext p.subtitle_01{
   margin-top: 30px;
-  font-size: 50px;
+  font-size: 72px;
   color: #fff;
 }
 
@@ -164,7 +164,7 @@ h1,h2,h3,h4,h5,h6{line-height: 1;}
 
 #mainbanner .maintext p.subtitle_02{
   margin-top: 30px;
-  font-size: 50px;
+  font-size: 72px;
   color: #000;
 }
 
@@ -176,7 +176,7 @@ h1,h2,h3,h4,h5,h6{line-height: 1;}
 
 #mainbanner .maintext p.subtitle_03{
   margin-top: 30px;
-  font-size: 50px;
+  font-size: 72px;
   color: #000;
 }
 
@@ -434,8 +434,4 @@ select::-ms-expand{
 
 #familysite:focus{
   border:1px solid #999999;
-}
-
-@media screen and ( min-width: 1150px  ) {
-  #wrap {width:100%;}
 }
