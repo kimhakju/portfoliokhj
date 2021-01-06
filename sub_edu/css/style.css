@@ -328,6 +328,9 @@ h1,h2,h3,h4,h5,h6{line-height: 1;}
   color: #383838;
 }
 
+.swiper-pagination-bullet{
+  background-color: #fff;
+}
 /*하단 영역*/
 #footer{
   background: #53565a;

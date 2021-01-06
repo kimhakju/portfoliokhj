@@ -367,6 +367,9 @@ a.common_btn:hover {
   transform: scale( 1.2, 1.2);
 }
 
+.swiper-pagination-bullet{
+  background-color: #fff;
+}
 /*하단 영역*/
 #footer{
   background: #53565a;
